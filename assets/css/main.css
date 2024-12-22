@@ -3432,6 +3432,29 @@ input, select, textarea {
 			#header.alt.style6 .logo strong {
 				color: #87c5a4;
 			}
+			#header.alt.style7 .logo strong {
+				color: #2196f391;
+			}
+
+			#header.alt.style8 .logo strong {
+				color: #ffc1079c;
+			}
+
+			#header.alt.style9 .logo strong {
+				color: #f443369e;
+			}
+
+			#header.alt.style10 .logo strong {
+				color: #8bc34aa1;
+			}
+
+			#header.alt.style11 .logo strong {
+				color: #3f51b59c;
+			}
+
+			#header.alt.style12 .logo strong {
+				color: #795548a6;
+			}
 
 		body.is-preload #header.alt {
 			opacity: 0;
@@ -3663,6 +3686,30 @@ input, select, textarea {
 
 		#banner.style6:after {
 			background-color: #87c5a4;
+		}
+
+		#banner.style7:after {
+			background-color: #2196f391;
+		}
+
+		#banner.style8:after {
+			background-color: #ffc1079c;
+		}
+
+		#banner.style9:after {
+			background-color: #f443369e;
+		}
+
+		#banner.style10:after {
+			background-color: #8bc34aa1;
+		}
+
+		#banner.style11:after {
+			background-color: #3f51b59c;
+		}
+
+		#banner.style12:after {
+			background-color: #795548a6;
 		}
 
 		body.is-preload #banner:after {
